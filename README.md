@@ -1,8 +1,3 @@
-### Hi there, my name is Maksim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🧑‍🎓 Student - Yanka Kupala State University of Hrodna
-- 👨‍💻 iOS Software Engineer
-- 🧠 I am currently learning everything
-- 📫 How to reach me: [LinkedIn][linkedin] or say 👋 on [Gmail](mailto:dassive_mick@mail.ru)
 
 #### 🔗 Connect with me:
 
